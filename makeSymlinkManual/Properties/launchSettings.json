@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "makeSymlinkManual": {
+      "commandName": "Project"
+    }
+  }
+}
